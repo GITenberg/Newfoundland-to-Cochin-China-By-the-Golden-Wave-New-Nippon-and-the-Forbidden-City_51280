@@ -1,0 +1,41 @@
+_repo: Newfoundland-to-Cochin-China-By-the-Golden-Wave-New-Nippon-and-the-Forbidden-City_51280
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Vincent, C. E. Howard (Charles Edward Howard)
+    aliases:
+    - Vincent, Howard
+    - Vincent, Charles Edward Howard
+    birthdate: 1849
+    deathdate: 1908
+    gutenberg_agent_id: '47201'
+    url: http://www.gutenberg.org/2009/agents/47201
+creator:
+  author:
+    agent_name: Vincent, Ethel Gwendoline
+    alias: Vincent, Ethel Gwendoline Moffatt, Lady
+    birthdate: 1861
+    gutenberg_agent_id: '46339'
+    url: http://www.gutenberg.org/2009/agents/46339
+description: ''
+gutenberg_issued: '2016-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcsh 'Canada -- Description and travel'
+- !lcsh 'Japan -- Description and travel'
+- !lcsh 'China -- Description and travel'
+- !lcc 'G'
+- !lcc 'DS'
+- !lcc 'F1001'
+- GITenberg
+title: 'Newfoundland to Cochin China
+
+  By the Golden Wave, New Nippon, and the Forbidden City'
+url: http://www.gutenberg.org/ebooks/51280
